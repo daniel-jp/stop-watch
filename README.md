@@ -17,3 +17,6 @@ KEY TOOLS OF PROJECT :
 ⚙️ Html5
 ⚙️ CSS3
 ⚙️ js
+By: Daniel
+
+danieljoaquimpaulinop@gmail.com

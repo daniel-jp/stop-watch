@@ -1,7 +1,8 @@
 # stop-watch
 buld stop-watch
 
-KEY TOOLS OF PROJECT :
+<img width="788" alt="stwt" src="https://user-images.githubusercontent.com/37070026/197118461-28d7cee4-974f-4dc4-b7d9-ae0983015c3c.png">
+
 
 ✅ document.querySelector() 👉🏽 toString()
 
@@ -11,3 +12,8 @@ KEY TOOLS OF PROJECT :
 
 ✅ if statements
 
+KEY TOOLS OF PROJECT :
+
+⚙️ Html5
+⚙️ CSS3
+⚙️ js

@@ -14,9 +14,9 @@
         .container {
             width: 60%;
             height: 250px;
-            background-color: #ffffff;
+            background-color: #ffffff8f;
             border-radius: 20px;
-            box-shadow: 0px 0px 10px 4px rgb(144, 7, 229)
+            box-shadow: 0px 0px 10px 4px rgb(149, 138, 156)
         }
         
         #timer {
@@ -29,11 +29,13 @@
         
         .buttons {
             text-align: center;
+            background-color: rgb(148, 150, 151);
         }
         
         button {
             border: none;
             margin: 0 10px;
+            background-color: rgb(148, 150, 151);
         }
         
         button i {
@@ -45,7 +47,6 @@
         
         #play {
             background-color: rgb(0, 128, 83);
-            border-radius: 8px;
         }
         
         #pause {
@@ -54,5 +55,4 @@
         
         #reset {
             background-color: rgb(241, 14, 75);
-            border-radius: 8px;
         }

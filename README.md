@@ -19,4 +19,6 @@ KEY TOOLS OF PROJECT :
 ⚙️ js
 By: Daniel
 
+Test link : https://stop-watch-zeta.vercel.app/
+
 danieljoaquimpaulinop@gmail.com
